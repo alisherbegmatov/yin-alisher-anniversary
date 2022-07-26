@@ -1,0 +1,14 @@
+body {
+  background-image: url("wedding.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center bottom;
+  background-size: cover;
+  font-family: "Futura";
+  font-size: 10px;
+  color: #ae2c23;
+}
+
+h1 {
+  text-align: center;
+}

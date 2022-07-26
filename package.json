@@ -1,0 +1,13 @@
+{
+  "name": "@alisherbegmatov/yin-alisher-anniversary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
